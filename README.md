@@ -1,6 +1,5 @@
 # Dimension Modelling for Data Warehouse
 
-<img src="https://github.com/graphshade/fake_news_detection/blob/master/static/img/fake_news.png" />
 
 <h2>Project Description</h2>
 
@@ -23,3 +22,8 @@ calculations which we run all the time:  (a) how many boxes did it take to compl
 
 <br/>
 The task is to design a database solution that supports the specified OLAP uses, as opposed to a normalized solution that would be prudent for OLTP uses.
+
+
+<h2>Proposed Solution</h2>
+
+<img src="https://i.imgur.com/yYvycD9.jpg" />
